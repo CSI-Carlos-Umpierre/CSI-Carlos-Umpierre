@@ -27,18 +27,18 @@
 ### La mecanica de mi juego es correr, brincar, disparar, armar builds y etc.
 
 ## Objetivos y Reglas
-###
-###
+### Objetivos y Reglas es que el juego debe retar al jugador a lograr algun tipo de objetivo, ya sea ganar una carrera o conquitsar a un enemigo.
+### El objetivo y reglas de fortnite son matar a todos los jugadores y ser el ultimo que queda. Y si estas en duos o squads ganar con tus companeros.
 
 ## Controles
-###
-###
+### Controles son lo que se usa en el juego para mover tu jugador o para crear una accion en el juego.
+### Los controles en fortnite son el mouse, keyboard, controler de ps4 o ps5, xbox, nintendo y etc.
 
 ## Dificultad
-###
-###
+### Dificultad es lo que hace el juego divertido por que si es muy facil aburre y si es muy dificl frustra so que encontrar el nivel perfecto de dificultad hace un juego muy divertido. Dificultad es algo que hace una cosa mas dificil de hacer o mas retoso.
+### La dificultad de fortnite puede variar porque si vas con un jugador malo pues es facil pero si vas con un jugador dificil se hace dificil.
 
 ## Mundo
-###
-###
+### El mundo es donde el juego es jugado y puede ser un mundo 3D o 2D.
+### El mundo en fortnite es 3D y es un mundo con differente monstros, animales y diferentes sitios.
 
