@@ -26,8 +26,9 @@
 <p style = "text-indent: 2cm; font-family: Comic Sans MS; font-size:110%">
   Shaq is a famous nba player who played in the nba for 19 seasons and for 5 difffernt teams. He is also a commentator who sometimes commentates on ESPN. Shaq is now considered one of the most dominant big men in nba history. He is in the nba hall of fame and has gotten many achievments.
   A lot of people have been helped by Shaq and his kidness he is known for being a very nice person.
-  
-  He can also dj and produce music he has made a few songs that you can check in his spotify.
+   He can also dj and produce music he has made a few songs that you can check in his spotify. Shaq has been one of the most influencial nba players and has also been one of the best. He has done movies, tv shows, and music videos. Shaq has 6 kids and has been divorced. His children are now playing basketball in high school.
+  Some fun facts about Shaq is that he owns 155 five guys. He also retired in 2011 from the nba and also played for a total 6 teams. Shaq also won a champ in 2001. He was also 6 foot 4 at age 10. Shaq has also made shoes cheaper so poorer people can buy them.
+    
 
  </p>
 
