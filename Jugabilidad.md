@@ -5,10 +5,12 @@
 ### background
 #### Background ayuda a preparar el escenario para el juegp y dan significado a las acciones del jugador.
 #### En mi juego el bacground es un mundo grande con muchas localizaciones como torres, montanllas y casas
+<img src="https://i.pinimg.com/originals/22/bf/3a/22bf3a5bb9a2bdc230a754339b6f202c.png">
 
 ### Sonido
 #### El sonido ayudan a que el jugador sienta emocion, suspenso o terror 
 #### En fortnite es las pistolas, las balas, los builds, consumir banditas y etc.
+<img src="https://i2.wp.com/mundowin.com/wp-content/uploads/2019/06/enable-windows-10-system-sound.png?w=832&ssl=1">
 
 ### Graficos
 #### Graficos son un elemento que muchos jugadores consideran antes de comprar un juego o de jugarlo.
