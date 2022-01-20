@@ -6,7 +6,7 @@
     <title>Shaq fan page</title>
 </head>
 
-<body>
+<body bgcolor="blue">
     <h1 style="font-family:Brush Script MT; font-size:300%;" align="center" > <b> Shaq Oneal </b></h1>
     <div align="center">
         <img    src="https://www.novexbiotech.com/staticcontent/novexbiotech.com/images/shaq-after.jpg"
